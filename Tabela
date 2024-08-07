@@ -1,0 +1,12 @@
+-- tabela alunos
+CREATE TABLE amigos de izael (
+  nomeme TEXT NOT NULL,
+  turma TEXT NOT NULL,
+  idade INTEGER PRIMARY KEY
+  Bairro TEXT NOT NULL);
+-- insert some values
+INSERT INTO amigos de izael VALUES ('Cristina', 'DS', '16''Parque são Jõao');
+INSERT INTO amigos de izael VALUES ('Jõao', 'DS', '17' 'Vila horizonte');
+INSERT INTO amigos de izael VALUES ('Izael', 'DS', '180' 'Jardim Esperança');
+-- fetch some values
+SELECT * FROM AGV WHERE gender = 'F';
